@@ -1,0 +1,7 @@
+{
+	"properties": {
+    "name": "mes-configs.limitDeProduits",
+    "type": "java.lang.Integer",
+    "description": "Max number of products to return when the whole list is requested"
+ 	}	
+ }
